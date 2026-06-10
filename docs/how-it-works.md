@@ -16,7 +16,7 @@ Pick fine-tune, evaluation, dataset work, or agentic pipeline based on bottlenec
 
 ## Ship the brief
 
-Use the generated plan as a checklist for jobs, reviews, and deliverables.
+Use the generated plan as a review list for jobs, reviews, and deliverables.
 
 ## Pricing and Support
 
