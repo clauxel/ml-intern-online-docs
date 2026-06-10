@@ -14,7 +14,7 @@ Keep papers, docs, datasets, models, repositories, and Hub surfaces in the same 
 
 Decide when a fine-tune, evaluation, dataset reshape, or agentic pipeline deserves compute.
 
-## Execution checklist
+## Execution review list
 
 Generate checkpoints for dataset quality, baselines, metrics, job packaging, and deliverables.
 
